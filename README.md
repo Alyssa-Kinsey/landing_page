@@ -1,1 +1,2 @@
 # landing_page
+This is my landing page project where I will create a website with the same formatting as the example given by TOP. I will demonstrate an ability to create a website layout from scratch using what I have learned about HTML, CSS, and flexbox. 
